@@ -1,0 +1,9 @@
+.nav-bar a {
+    margin: 1rem;
+    font-size: 1.2rem;
+    color: green;
+}
+
+.nav-bar a.active {
+    color: blue;
+}
